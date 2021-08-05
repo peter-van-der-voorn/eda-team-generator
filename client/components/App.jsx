@@ -1,9 +1,9 @@
+import React from 'react'
 
 function App () {
-
   return (
     <>
-      <h1>Team Generator</h1>
+      <h1>Let's Generate</h1>
     </>
   )
 }
